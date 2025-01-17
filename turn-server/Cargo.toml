@@ -15,7 +15,7 @@ categories = ["parsing", "network-programming"]
 ahash = "0.8"
 async-trait = "0.1"
 anyhow = "1.0"
-axum = "0.7"
+axum = "0.8"
 base64 = "0.22"
 bytes = "1"
 clap = { version = "4", features = ["derive"] }
